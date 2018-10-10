@@ -1,5 +1,5 @@
 telegram:
-  token: TELEGRAM_BOT_TOKEN_HERE      # Telegram bot tokens look like this: 113031530:AAH_4c5Gt9gsVu82OVNjUV7poU7PodYiNsA
+  token: 688279139:AAEq9Fr0CLPa1BNC-RCoMTqBK_u0wrSlnLM  # Telegram bot tokens look like this: 113031530:AAH_4c5Gt9gsVu82OVNjUV7poU7PodYiNsA
   useFirstNameInsteadOfUsername: false
   colonAfterSenderName: false
   skipOldMessages: true
